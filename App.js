@@ -13,7 +13,7 @@
             return(
                 <View>
                     <Text>
-                        Aqui nesse caso temos uma função que se mostra um1
+                        Aqui nesse caso temos uma função que se mostra um texto
                     </Text>
                 </View>
             );
